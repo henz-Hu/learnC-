@@ -1,10 +1,10 @@
 # learnCSharp 1
  learning by self
  自學c#初級教程：
- 01作為行為組建的腳本
- 02變量和函數
- 03約定和語法
- 04if語句
+ 01作為行為組建的腳本/behavior components
+ 02變量和函數/variables and functions
+ 03約定和語法/basic syntax
+ 04if語句/if statements
  05循環
  06作用域和訪問修飾符
 07 Awake和Start
