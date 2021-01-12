@@ -1,31 +1,31 @@
 # learnCSharp 1
  learning by self
  自學c#初級教程：
- 作為行為組建的腳本
- 變量和函數
- 約定和語法
- if語句
- 循環
- 作用域和訪問修飾符
- Awake和Start
- Update和FixedUpdate
- 矢量數學
- 啟用和禁用組件
- 激活遊戲對象
- Translate和Rotate
- Look At
- Destroy
- GetButton和GetKey
- GetAxis
- OnMouseDown
- GetComponent
- DeltaTime
- 數據類型
- 類
- Instantiate
- 數組
- Invoke
- 枚舉
- Switch語句
+ 01作為行為組建的腳本
+ 02變量和函數
+ 03約定和語法
+ 04if語句
+ 05循環
+ 06作用域和訪問修飾符
+07 Awake和Start
+08 Update和FixedUpdate
+09矢量數學
+10啟用和禁用組件
+11激活遊戲對象
+12Translate和Rotate
+13Look At
+14 Destroy
+15GetButton和GetKey
+16GetAxis
+17OnMouseDown
+18GetComponent
+19DeltaTime
+20數據類型
+21類
+22Instantiate
+23數組
+24Invoke
+25枚舉
+26Switch語句
  
  
