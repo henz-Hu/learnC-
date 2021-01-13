@@ -79,6 +79,20 @@
     <Compile Include="Assets\Scripts\11\ActivateGameobject.cs" />
     <Compile Include="Assets\Scripts\11\CheckState.cs" />
     <Compile Include="Assets\Scripts\12\TransformFunction.cs" />
+    <Compile Include="Assets\Scripts\13\CameraLookAt.cs" />
+    <Compile Include="Assets\Scripts\14\DestroyBasic.cs" />
+    <Compile Include="Assets\Scripts\14\DestroyCompnents.cs" />
+    <Compile Include="Assets\Scripts\14\DestroyOther.cs" />
+    <Compile Include="Assets\Scripts\15\ButtonInput.cs" />
+    <Compile Include="Assets\Scripts\15\KeyInput.cs" />
+    <Compile Include="Assets\Scripts\16\AxisExampleHorizontalVertical.cs" />
+    <Compile Include="Assets\Scripts\17\MouseClick.cs" />
+    <Compile Include="Assets\Scripts\18\AnotherScript.cs" />
+    <Compile Include="Assets\Scripts\18\UsingOtherComponents.cs" />
+    <Compile Include="Assets\Scripts\18\YetAnotherScript.cs" />
+    <Compile Include="Assets\Scripts\19\UsingDeltaTime.cs" />
+    <Compile Include="Assets\Scripts\20\DatatypeScript.cs" />
+    <Compile Include="Assets\Scripts\21\SingleCharacterScript.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.16f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
