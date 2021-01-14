@@ -92,7 +92,18 @@
     <Compile Include="Assets\Scripts\18\YetAnotherScript.cs" />
     <Compile Include="Assets\Scripts\19\UsingDeltaTime.cs" />
     <Compile Include="Assets\Scripts\20\DatatypeScript.cs" />
+    <Compile Include="Assets\Scripts\21\Inventory.cs" />
+    <Compile Include="Assets\Scripts\21\Movement.cs" />
+    <Compile Include="Assets\Scripts\21\Shooting.cs" />
     <Compile Include="Assets\Scripts\21\SingleCharacterScript.cs" />
+    <Compile Include="Assets\Scripts\22\ProjectileDestruction.cs" />
+    <Compile Include="Assets\Scripts\22\UsingInstantiate.cs" />
+    <Compile Include="Assets\Scripts\23\Arrays.cs" />
+    <Compile Include="Assets\Scripts\24\InvokeRepeating.cs" />
+    <Compile Include="Assets\Scripts\24\InvokeScript.cs" />
+    <Compile Include="Assets\Scripts\25\CardialDirection.cs" />
+    <Compile Include="Assets\Scripts\26\ConversationScript.cs" />
+    <Compile Include="Assets\Scripts\27\LerpScript.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.16f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
