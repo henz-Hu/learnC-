@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//在C#中,多态是通过派生类复写基类中的虚函数型的方法来实现
 public class SomeScript : MonoBehaviour
 {
     // protected 修飾符號介於private和public之間，最基础的三个访问修饰符：public 、private、protect.在搜索过程中又看到有一种和他们放在了一起，那就是internal.接下来就四个访问修饰符做一个简答的总结和介绍。
