@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/27\u7DDA\u6027\u63D2\u503C.unity"
+- path: "Assets/Scenes/C#\u4E2D\u7D1A/08\u6210\u54E1\u96B1\u85CFmemberHiding.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
